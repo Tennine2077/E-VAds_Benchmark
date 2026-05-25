@@ -276,13 +276,14 @@ Average Score (R2): 0.450
 如果 E-VAds 对您的研究有帮助，请引用我们的论文：
 
 ```bibtex
-@inproceedings{
-anonymous2026evads,
-title={E-{VA}ds: An E-commerce Short Videos Understanding Benchmark for {MLLM}s},
-author={Anonymous},
-booktitle={Forty-third International Conference on Machine Learning},
-year={2026},
-url={https://openreview.net/forum?id=IhhgzNZNGW}
+@misc{liu2026evadsecommerceshortvideos,
+      title={E-VAds: An E-commerce Short Videos Understanding Benchmark for MLLMs}, 
+      author={Xianjie Liu and Yiman Hu and Liang Wu and Ping Hu and Yixiong Zou and Jian Xu and Bo Zheng},
+      year={2026},
+      eprint={2602.08355},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2602.08355}, 
 }
 ```
 
